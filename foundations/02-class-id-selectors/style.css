@@ -1,10 +1,19 @@
 .odd{
-    font-size: 48 px;
     background-color: red;
     font-family: 'Verdana', 'sans-serif';
 }
 
+.cooler {
+    font-size: 24px;
+}
+
 .ele-2 {
     color: blue;
-    font-size: 36 px;
+    font-size: 36px;
+}
+
+.ele-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
